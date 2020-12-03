@@ -1,5 +1,3 @@
-### Hey! 👋 I'm Mert.
-
 <table>
   <tr>
     <td style="border:none; padding: 3px" valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yigittopm&show_icons=true&hide_border=true&locale=en&layout=compact" alt="nolimits4web" /></td>
