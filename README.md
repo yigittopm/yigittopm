@@ -1,10 +1,3 @@
-<table>
-  <tr>
-    <td style="border:none; padding: 3px" valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yigittopm&show_icons=true&hide_border=true&locale=en&layout=compact" alt="nolimits4web" /></td>
-    <td style="border:none; padding: 3px" valign="top"><img src="https://github-readme-stats.vercel.app/api?username=yigittopm&show_icons=true&hide_border=true&locale=en" alt="nolimits4web" /></td>
-  </tr>
-</table>
-
 <p align="center"> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
