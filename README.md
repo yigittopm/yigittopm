@@ -3,7 +3,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png" alt="javascript" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://expressjs.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="webpack" width="40" height="40"/> 
