@@ -9,7 +9,7 @@
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="webpack" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> 
   </a> 
     <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> 
