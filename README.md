@@ -6,7 +6,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="webpack" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> 
