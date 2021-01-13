@@ -1,7 +1,7 @@
 <!--
   devicon
 -->
-<p align="center"> 
+<p align="center">
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
@@ -13,6 +13,9 @@
   </a> 
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
   </a> 
     <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> 
