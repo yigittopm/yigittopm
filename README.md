@@ -44,4 +44,7 @@
   <a href="https://webpack.js.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> 
   </a> 
+    <a href="https://www.kernel.org/doc/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="python" width="40" height="40"/> 
+  </a> 
 </p>
