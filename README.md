@@ -5,6 +5,9 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
+  <a href="https://dev.mysql.com/doc/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" alt="javascript" width="40" height="40"/> 
   </a>
@@ -25,6 +28,9 @@
   </a>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+    <a href="https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
      <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
