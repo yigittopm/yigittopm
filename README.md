@@ -43,6 +43,9 @@
    <a href="https://postman.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
+  <a href="https://dev.mysql.com/doc/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
   <a href="https://webpack.js.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> 
   </a> 
