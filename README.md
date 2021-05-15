@@ -1,7 +1,7 @@
 <!--
   devicon
 -->
-## Hello everyone! 👋 
+## Hello everyone!! 👋 
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank"> 
