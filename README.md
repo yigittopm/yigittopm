@@ -1,7 +1,7 @@
 <!--
   devicon
 -->
-## Hello everyone!! 👋 
+## Hello everyone!! 👋  [![Linkedin Badge](https://img.shields.io/badge/-mertyigittop-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertyigittop/)](https://www.linkedin.com/in/mertyigittop/) ![](https://komarev.com/ghpvc/?username=yigittopm&color=blue)
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank"> 
@@ -58,8 +58,6 @@
 </p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-mertyigittop-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertyigittop/)](https://www.linkedin.com/in/mertyigittop/)
 
-![](https://komarev.com/ghpvc/?username=yigittopm&color=green)
 
 
