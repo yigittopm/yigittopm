@@ -26,10 +26,10 @@
     </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/> 
-    </a> 
+    <!-- </a> 
       <a href="https://react-redux.js.org/" target="_blank"> 
       <img src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg" alt="redux" width="40" height="40"/> 
-    </a> 
+    </a> --> 
     <a>
       <img src="https://img.icons8.com/color/344/redis.png" alt="redis" width="40" height="40" />
     </a>
