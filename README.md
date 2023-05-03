@@ -27,14 +27,18 @@
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> 
     </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/> 
-    <!-- </a> 
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/>
+    </a> 
+    <!--
       <a href="https://react-redux.js.org/" target="_blank"> 
       <img src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg" alt="redux" width="40" height="40"/> 
     </a> --> 
-    <a>
+    <a href="https://redis.io/" target="_blank">
       <img src="https://img.icons8.com/color/344/redis.png" alt="redis" width="40" height="40" />
     </a>
+    <a href="https://kubernetes.io" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+    </a> 
     <a href="https://golang.org/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/> 
     </a> 
