@@ -60,9 +60,9 @@
        <a href="https://www.mongodb.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
     </a>
-     <a href="https://postman.com" target="_blank"> 
+     <!-- <a href="https://postman.com" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> 
+    </a> -->
     <a href="https://www.postgresql.org/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
     </a> 
