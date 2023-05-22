@@ -9,11 +9,6 @@
     <a href="https://aws.amazon.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
     </a> 
-    <!--
-    <a href="https://git-scm.com/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a>
- -->
     <a href="https://dev.mysql.com/doc/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> 
     </a> 
@@ -32,10 +27,6 @@
     <a href="https://spring.io/projects/spring-boot" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/>
     </a> 
-    <!--
-      <a href="https://react-redux.js.org/" target="_blank"> 
-      <img src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg" alt="redux" width="40" height="40"/> 
-    </a> --> 
     <a href="https://redis.io/" target="_blank">
       <img src="https://img.icons8.com/color/344/redis.png" alt="redis" width="40" height="40" />
     </a>
@@ -48,7 +39,10 @@
     <a href="https://www.docker.com/" target="_blank"> 
       <img src="https://img.icons8.com/fluency/344/docker.png" alt="docker" width="40" height="40"/> 
     </a> 
-      <a href="https://vuejs.org/" target="_blank"> 
+    <a href="https://graphql.org/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/> 
+    </a>
+    <a href="https://vuejs.org/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> 
     </a> 
      <a href="https://www.typescriptlang.org/" target="_blank"> 
@@ -66,18 +60,23 @@
     <a href="https://www.rabbitmq.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="35" height="35"/> 
     </a>
-    <a href="https://graphql.org/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/> 
-    </a>
-     <!-- <a href="https://postman.com" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> -->
     <a href="https://www.postgresql.org/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
     </a> 
       <a href="https://www.kernel.org/doc/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="python" width="40" height="40"/> 
     </a>
+ <!--
+    <a href="https://git-scm.com/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a>
+    <a href="https://postman.com" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    </a>
+    <a href="https://react-redux.js.org/" target="_blank"> 
+      <img src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg" alt="redux" width="40" height="40"/> 
+    </a>  
+ -->
   </div>
 </div>
 <br/>
