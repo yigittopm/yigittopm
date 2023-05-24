@@ -64,6 +64,7 @@
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
     </a> 
  <!--
+<br/>
     <a href="https://www.kernel.org/doc/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="python" width="40" height="40"/> 
     </a>
