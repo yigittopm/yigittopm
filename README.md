@@ -74,6 +74,7 @@
     <a href="https://react-redux.js.org/" target="_blank"> 
       <img src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg" alt="redux" width="40" height="40"/> 
     </a>  
+    <br/>
  -->
   </div>
 </div>
