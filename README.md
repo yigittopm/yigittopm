@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?
     alt="readme"
   lines=Nice+to+see+you+!;I+am+Mert+Yigittop;I+am+interested+in+Javascript+!&font=Fira%20Code&center=true&width=640&height=45&color=36BCF7&vCenter=true&size=32">
-<br/>
 -->
 <div>
   <div align="center">
