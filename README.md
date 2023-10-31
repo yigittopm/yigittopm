@@ -1,14 +1,8 @@
-<!--
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?
-    alt="readme"
-  lines=Nice+to+see+you+!;I+am+Mert+Yigittop;I+am+interested+in+Javascript+!&font=Fira%20Code&center=true&width=640&height=45&color=36BCF7&vCenter=true&size=32">
--->
 <div>
   <div align="center">
     <a href="https://aws.amazon.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
-    </a> 
+    </a>
     <a href="https://dev.mysql.com/doc/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> 
     </a> 
@@ -63,29 +57,11 @@
     <a href="https://www.postgresql.org/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
     </a> 
- <!--
-    <a href="https://www.kernel.org/doc/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="python" width="40" height="40"/> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a>
-    <a href="https://postman.com" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a>
-    <a href="https://react-redux.js.org/" target="_blank"> 
-      <img src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg" alt="redux" width="40" height="40"/> 
-    </a>  
-    <br/>
- -->
   </div>
 </div>
 <br/>
 
 <div align="center">
-  <!--
-  devicon
--->
 
 [![Linkedin Badge](https://img.shields.io/badge/-mertyigittop-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertyigittop/)](https://www.linkedin.com/in/mertyigittop/) ![](https://komarev.com/ghpvc/?username=yigittopm&color=blue)
 </div>
