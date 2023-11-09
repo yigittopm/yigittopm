@@ -22,7 +22,7 @@
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/>
     </a> 
     <a href="https://redis.io/" target="_blank">
-      <img src="https://img.icons8.com/color/344/redis.png" alt="redis" width="40" height="40" />
+      <img src="https://img.icons8.com/color/344/redis.png" alt="redis" width="45" height="45" />
     </a>
     <a href="https://kubernetes.io" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
