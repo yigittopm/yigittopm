@@ -1,4 +1,8 @@
-<div>
+<div align="center">
+  <img align="center" width="100%" height="auto" margin="20px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</div>
+
+<!-- <div>
   <div align="center">
     <a href="https://aws.amazon.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
@@ -58,14 +62,11 @@
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
     </a> 
   </div>
-</div>
-
-<div align="center">
-  <img align="center" width="900px" height="auto" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-</div>
+</div> 
 
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-mertyigittop-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertyigittop/)](https://www.linkedin.com/in/mertyigittop/) ![](https://komarev.com/ghpvc/?username=yigittopm&color=blue)
 </div>
 
+-->
