@@ -1,5 +1,3 @@
-<div></div>
-
 <div>
   <div align="center">
     <a href="https://aws.amazon.com/" target="_blank"> 
@@ -61,7 +59,10 @@
     </a> 
   </div>
 </div>
-<br/>
+
+<div align="center">
+  <img align="center" width="900px" height="auto" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</div>
 
 <div align="center">
 
