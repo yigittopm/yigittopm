@@ -59,7 +59,7 @@
     </a> 
   </div>
 </div> 
-
+</br>
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-mertyigittop-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertyigittop/)](https://www.linkedin.com/in/mertyigittop/) ![](https://komarev.com/ghpvc/?username=yigittopm&color=blue)
