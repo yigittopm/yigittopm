@@ -1,4 +1,16 @@
-<div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,mysql,js,nestjs,express,react,spring,redis,kubernetes,go,docker,graphql,vuejs,ts,nodejs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mongodb,rabbitmq,kafka,postgresql,python, grpc" />
+  </a>
+</p>
+
+
+<!-- <div>
   <div align="center">
     <a href="https://aws.amazon.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
@@ -58,7 +70,7 @@
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
     </a> 
   </div>
-</div> 
+</div> -->
 </br>
 <div align="center">
 
