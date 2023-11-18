@@ -1,16 +1,5 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,mysql,js,nestjs,express,react,spring,redis,kubernetes,go,docker,graphql,vuejs,ts,nodejs" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,rabbitmq,java,mysql,js,express,react,spring,redis,graphql,vuejs,ts,kafka,postgresql,python" />
   </a>
 </p>
