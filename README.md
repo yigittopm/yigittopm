@@ -5,7 +5,18 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mongodb,rabbitmq,kafka,postgresql,python, grpc" />
+    <img src="https://skillicons.dev/icons?i=" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,rabbitmq,java,mysql,js,express,react,spring,redis,graphql,vuejs,ts,kafka,postgresql,python" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,go,nodejs,nestjs" />
   </a>
 </p>
 
