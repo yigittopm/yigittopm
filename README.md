@@ -8,7 +8,6 @@
     <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,go,nodejs,nestjs" />
   </a>
 </p>
-
 <!-- <div>
   <div align="center">
     <a href="https://aws.amazon.com/" target="_blank"> 
