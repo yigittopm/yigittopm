@@ -71,11 +71,14 @@
 </div> -->
 </br>
 <div align="center">
-
+  
 [![Linkedin Badge](https://img.shields.io/badge/-mertyigittop-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertyigittop/)](https://www.linkedin.com/in/mertyigittop/) 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yigittopm) 
-[![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13921542/mert) 
 ![](https://komarev.com/ghpvc/?username=yigittopm&color=blue)
+[![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13921542/mert) 
+<a href="https://stackshare.io/yigittopm/personal-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/yigittopm/personal-stack">
+</a>
 </div>
 
 <!--
