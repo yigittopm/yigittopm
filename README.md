@@ -5,10 +5,22 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,go,nodejs,nestjs" />
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,go,solidity,nodejs,nestjs" />
   </a>
 </p>
-<!-- <div>
+
+<!--
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,rabbitmq,java,mysql,js,express,react,spring,redis,graphql,vuejs,ts,kafka,postgresql,python" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,go,nodejs,nestjs,solidity" />
+  </a>
+</p>
+<div>
   <div align="center">
     <a href="https://aws.amazon.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
@@ -67,6 +79,10 @@
     <a href="https://www.postgresql.org" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
     </a> 
+    <a href="https://ethereum.org" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> 
+    </a> 
+    
   </div>
 </div> -->
 </br>
