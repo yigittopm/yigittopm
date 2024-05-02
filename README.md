@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,go,solidity,nodejs,nestjs" />
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,go,solidity,nodejs,nestjs,googlecloud" />
   </a>
 </p>
 
