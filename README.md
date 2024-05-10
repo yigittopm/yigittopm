@@ -1,4 +1,4 @@
-<!-- LAST VERSION -->
+<!-- LAST VERSION 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,js,ts,solidity" />
@@ -14,9 +14,8 @@
     <img src="https://skillicons.dev/icons?i=aws,googlecloud,kubernetes,docker,postgresql,mongodb" />
   </a>
 </p>
+-->
 
-
-<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,rabbitmq,java,mysql,js,express,react,spring,redis,graphql,vuejs,ts,kafka,postgresql,python" />
@@ -27,7 +26,6 @@
     <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,go,solidity,nodejs,nestjs,googlecloud" />
   </a>
 </p>
--->
 
 <!--
 
