@@ -14,16 +14,17 @@
     <img src="https://skillicons.dev/icons?i=aws,googlecloud,kubernetes,docker,postgresql,mongodb" />
   </a>
 </p>
--->
+
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,rabbitmq,java,mysql,js,express,react,spring,redis,graphql,vuejs,ts,kafka,postgresql,python" />
   </a>
 </p>
+-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,go,solidity,nodejs,nestjs,googlecloud" />
+    <img src="https://skillicons.dev/icons?i=js,ts,go,react,express,aws,kubernetes,docker,solidity,nodejs,nestjs,googlecloud,postgresql,mongodb" />
   </a>
 </p>
 
