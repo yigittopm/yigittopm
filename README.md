@@ -24,7 +24,7 @@
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,aws,docker,js,ts,react,solidity,nodejs,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=go,rust,aws,docker,js,ts,react,solidity,nodejs,postgresql" />
   </a>
 </p>
 
